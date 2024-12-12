@@ -1,0 +1,17 @@
+Art Parody -- https://trishaaringo1.wixsite.com/art-parody
+    - A senior high activity on E-Tech. Tackles about a parody of every existing art. The design layout was inspired on a Manga reader website.
+
+Portfolio -- https://trishaaringo1.wixsite.com/portfolio
+    - A portfolio related on being a artist/animator. It contains cringy artwork and a video.
+
+CP102 Prelim Project -- https://trishaaringo1.wixsite.com/cp102-prelim
+    - A Command Prompt based Python program about storing information of books, who donates it and who borrows it. It applies object-oriented programming (OOP),
+      regular expression (RegEx) to patterns pattern in a string, and a program that accesses files to perform create, retrieve, update, and delete (CRUD) operations. 
+
+CP102 SemiFinal Project -- https://trishaaringo1.wixsite.com/cp102-semifinals
+    - A Command Prompt based Python program about listing and rating a movie that the group of user have watched. It uses MySQL Database for storing information and 
+      keeping the user updated about the average rating of the movie. It applies OOP, RegEx, and CRUD operations as it was the requirements for the project.
+
+CP102 Final Project -- https://trishaaringo1.wixsite.com/cp102-finals
+    - A Python program about helping users to track their fitness goals. It calculates the users weight changes, burned calories, and nutrient intake. This program
+      uses QT Designer for the UI and MySQL for the database.
